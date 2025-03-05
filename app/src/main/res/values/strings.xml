@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">SmartTrashBin</string>
+    <string name="user_label">User</string>
+    <string name="organik_label">Organik</string>
+    <string name="anorganik_label">Anorganik</string>
+    <string name="logo_smart">SMART</string>
+    <string name="logo_trash">TRASH</string>
+    <string name="logo_bin">BIN</string>
+    <string name="percentage_format">%d%%</string>
+    <string name="logo_description">Smart Trash Bin Logo</string>
+    <string name="user_icon_description">User Icon</string>
 </resources>
